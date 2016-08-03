@@ -9,7 +9,7 @@
  * @link        http://belumbeli.com
  */
 	
-class Omenu {
+class TreeForCI {
 	/*parent properties*/
 	private $pt_open 	= '<ul>';
 	private $pt_close 	= '</ul>';
